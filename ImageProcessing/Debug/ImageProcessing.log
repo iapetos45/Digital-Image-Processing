@@ -1,0 +1,15 @@
+﻿  CConstantDlg.cpp
+  CDownSampleDlg.cpp
+  CQuantizationDlg.cpp
+  CUpSampleDlg.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  ImageProcessing.cpp
+  ImageProcessingDoc.cpp
+  ImageProcessingView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  코드를 생성하고 있습니다...
+  ImageProcessing.vcxproj -> C:\Users\iapetos45\source\repos\ImageProcessing\Debug\ImageProcessing.exe
